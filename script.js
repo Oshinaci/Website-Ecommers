@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 1,
             name: "Sepatu Lari X100",
-            image: "https://via.placeholder.com/250", // Ganti dengan URL gambar Anda
+            image: "https://github.com/Oshinaci/Website-Ecommers/blob/2dde4df427496306466adb0da617f39126f71fe0/95b1aba01bf657663642b43e8140828d.jpg", // Ganti dengan URL gambar Anda
             price: "Rp 500.000",
             description: "Sepatu lari yang ringan dan nyaman, cocok untuk kegiatan sehari-hari."
         },
